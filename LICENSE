@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-The CSV files in data/ are COVID-19 time series from the COVID-19 Data
-Repository by the Center for Systems Science and Engineering (CSSE) at Johns
-Hopkins University, licensed under CC BY 4.0. They are not covered by the MIT
-license above.

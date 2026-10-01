@@ -198,3 +198,5 @@ COVID-19 time series from the **COVID-19 Data Repository by the Center for Syste
 ## License
 
 The code is released under the [MIT License](LICENSE). The data in `data/` remain under CC BY 4.0 (JHU CSSE).
+
+See [`NOTICE`](NOTICE) for third-party components and data licenses.

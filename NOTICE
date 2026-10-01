@@ -1,0 +1,7 @@
+Third-party and scope notices
+=============================
+
+The CSV files in data/ are COVID-19 time series from the COVID-19 Data
+Repository by the Center for Systems Science and Engineering (CSSE) at Johns
+Hopkins University, licensed under CC BY 4.0. They are not covered by the MIT
+license above.
