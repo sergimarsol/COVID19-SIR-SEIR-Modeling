@@ -18,8 +18,6 @@ We used the Johns Hopkins CSSE daily time series for **Spain** (confirmed cases,
 2. evaluated it on the rest of the wave (out-of-sample),
 3. used the fitted model to predict two key dates: the epidemic peak (when $R_0$ falls below 1, or $dI/dt < 0$) and when infections drop to a fixed fraction of the peak.
 
-This is a course project for *Modelling of Biomedical Systems* at the Universitat de Barcelona (May 2023).
-
 ## What I built
 
 - **Data pipeline** from the raw JHU CSSE CSVs: extracts the Spain series and builds **active infected** $= \text{confirmed} - \text{deaths} - \text{recovered}$ and **removed** $= \text{deaths} + \text{recovered}$. Analysis windows are aligned with a configurable start offset and horizon (`start = 15`, `time = 180`).
@@ -187,7 +185,7 @@ jupyter nbconvert --to notebook --execute covid19_sir_seir_modeling.ipynb --outp
 - **Sergi Marsol**
 - **Ariadna Mon**
 
-Course project for *Modelling of Biomedical Systems* (Modelització de Sistemes Biomèdics), Biomedical Engineering, Universitat de Barcelona, May 2023.
+Developed for *Modelling of Biomedical Systems* (Modelització de Sistemes Biomèdics), Biomedical Engineering, Universitat de Barcelona, May 2023.
 
 ### Data attribution
 
